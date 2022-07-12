@@ -16,7 +16,7 @@ git remote add origin https://github.com/osolgithub/osoljspreloader.git
 git pull origin main
 git add .
 git commit -m "First commit to upload"
-git push origin main
+git push origin HEAD:main
 ```
 
 ## Prerequisites
