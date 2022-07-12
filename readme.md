@@ -12,10 +12,18 @@ This documentation is created with `jsdoc OSOLJSPreloader.js -c jsdoc.json`
 Uploaded to git via
 ```
 git init
+rem git init creates branch 'master', but for git hub default branch is 'main'
+rem so rename branch to match the remote repository branch name.
+git branch -m "main"
 git remote add origin https://github.com/osolgithub/osoljspreloader.git
 git pull origin main
 git commit -a -m "First commit to upload"
-git push origin HEAD:main
+git push origin main
+```
+
+**PS:**if branch main is not created you may upload to `main` branch from default `master` branch with 
+```
+rem git push origin HEAD:main
 ```
 
 ## Prerequisites
