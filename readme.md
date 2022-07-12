@@ -14,8 +14,7 @@ Uploaded to git via
 git init
 git remote add origin https://github.com/osolgithub/osoljspreloader.git
 git pull origin main
-git add .
-git commit -m "First commit to upload"
+git commit -a -m "First commit to upload"
 git push origin HEAD:main
 ```
 
