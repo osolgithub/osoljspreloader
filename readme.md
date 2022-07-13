@@ -29,7 +29,7 @@ rem git push origin HEAD:main
 ## Prerequisites
 Browser must support ES6 classes
 
-## Installation
+## Installation 
 1. load js file &lt;script src="OSOLJSPreloader.js"&gt;</script>
 2. declare preloaderInst
 	var preloaderInst;
@@ -49,7 +49,7 @@ Browser must support ES6 classes
 
 
 ## Contributing
-Issue Tracker: github.com/project/issues
+Issue Tracker: <https://github.com/osolgithub/osoljspreloader/issues>
 
 ## License / Copyright Info
 You can use, redistribute this file and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
