@@ -17,9 +17,11 @@ Url: http://www.outsource-online.net
 * You can use, redistribute this file and/or modify
 * it under the terms of the GNU General Public License as published by
 * the Free Software Foundation.
-@brief
-JS preloader with vanilla js
-@description
+@brief JS preloader with vanilla js. This doesnt show in jsdoc documentation
+@description 
+Class file of OSLOJSPreloader. Usage details are mentioned in readme and this file.
+*/
+/*
 Usage
 
 1. load js file <script src="OSOLJSPreloader.js"></script>
